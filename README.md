@@ -18,7 +18,7 @@ Project ini adalah aplikasi backend sederhana untuk mengelola daftar buku menggu
 ## 🚀 Cara Menjalankan
 
 1. Clone repository ini
-2. Jalankan PostgreSQL dan buat database `book_catalog`
+2. Jalankan PostgreSQL dan buat database `BookCatalog`
 3. Jalankan aplikasi:
 ```bash
 ./mvnw spring-boot:run
